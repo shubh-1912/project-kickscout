@@ -1,0 +1,26 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Database & Infrastructure
+neo4j/data/
+neo4j/logs/
+neo4j/import/
+*.csv
+*.db
+
+# Data & AI Models
+data/
+images/
+models/
+
+# IDEs
+.vscode/
+.idea/

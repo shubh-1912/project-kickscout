@@ -1,0 +1,8 @@
+kagglehub
+pandas
+neo4j
+python-dotenv
+sentence-transformers
+torch
+tqdm
+pillow
