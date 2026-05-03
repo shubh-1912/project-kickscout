@@ -6,3 +6,6 @@ sentence-transformers
 torch
 tqdm
 pillow
+fastapi
+uvicorn
+python-multipart
